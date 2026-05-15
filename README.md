@@ -1,4 +1,4 @@
-<!--# Hi there, I'm Ghulam Raza 👋
+# Hi there, I'm Ghulam Raza 👋
 
 ###  Data Analyst | Augmenting Insights with AI & LLMs
 I bridge the gap between traditional data analytics and modern AI. My focus is on transforming raw data into intelligent, automated systems—moving beyond static dashboards to interactive, model-driven solutions.
