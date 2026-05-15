@@ -28,9 +28,9 @@ I bridge the gap between traditional data analytics and modern AI. My focus is o
 ---
 
 ###  Connect with me
-- **LinkedIn:** [Your Profile Link Here]
+- **LinkedIn:** www.linkedin.com/in/ghulam-raza-71ba11200
 - **Portfolio:** [Your Website/Blog Link Here]
-- **Email:** [Your Email Here]
+- **Email:** [razag1013@gmail.com]
 
 *"The goal isn't just to analyze data, but to teach machines to understand it."*
 
