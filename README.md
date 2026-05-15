@@ -1,4 +1,3 @@
-
 <!--# Hi there, I'm Ghulam Raza 👋
 
 ###  Data Analyst | Augmenting Insights with AI & LLMs
